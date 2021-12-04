@@ -1,0 +1,15 @@
+<xml>
+ <Создание документов>
+ 	<value>тест-кейc</value>
+	<value>чек-лист</value>
+	<value>баг-репорт</value>
+ </Создание документов>
+ <Программы>
+	<value>Postman</value>
+	<value>Jmeter</value>
+	<value>Charles</value>
+	<value>Android Studio</value>
+	<value>Git</value>
+	<value>Fidler</value>
+ </Программы>
+</xml>

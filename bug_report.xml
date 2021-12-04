@@ -1,1 +1,15 @@
-
+<xml>
+  <Summary>
+    <value>Что?</value>
+    <value>Где?</value>
+    <value>При каких условиях?</value>
+  </Summary>
+  <Steps>
+    <value>1</value>
+    <value>2</value>
+    <value>3</value>
+    <value>4</value>
+  </Steps>
+  <Actual Results>text</Actual Results>
+  <Expected Results>text</Expected Results>
+</xml>
